@@ -1,2 +1,2 @@
 # dio-outsystems-tasklist
-Aplicativo TaskList do Desafio de projeto da formação outsystems fundamentals. 
+Projeto Desáfio de projeto - Tasklist, desenvolvido em Outsystems, última versão publicada [https://personal-txqo8hch.outsystemscloud.com/DioHotel/](https://personal-txqo8hch.outsystemscloud.com/PreviewInDevices/ShareMobileApp.aspx?URL=/TaskList/&_ts=149325)  O projeto encontra-se em construção e será aperfeiçoado a medida que os cursos da plataforma Outsystems forem finalizados. 
